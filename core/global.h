@@ -5,6 +5,7 @@
 #pragma once
 
 #include <string>
+#include <optional>
 #include <string_view>
 #include <llvm/ADT/StringRef.h>
 #include <llvm/Support/Alignment.h>

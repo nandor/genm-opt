@@ -5,6 +5,7 @@
 #pragma once
 
 #include <stdint.h>
+#include <optional>
 
 #include <llvm/Support/raw_ostream.h>
 

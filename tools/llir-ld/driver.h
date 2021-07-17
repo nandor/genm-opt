@@ -7,6 +7,7 @@
 #include <llvm/ADT/Triple.h>
 #include <llvm/Option/ArgList.h>
 #include <llvm/Support/Error.h>
+#include <optional>
 
 #include "linker.h"
 

@@ -5,6 +5,7 @@
 #pragma once
 
 #include <set>
+#include <optional>
 
 #include <llvm/Pass.h>
 #include <llvm/IR/DataLayout.h>
